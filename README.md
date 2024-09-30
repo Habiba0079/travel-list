@@ -61,7 +61,7 @@ src/
 │   ├── PackList.js      # Component to display the list of items
 │   ├── Item.js          # Individual item component
 │   ├── Stats.js         # Statistics component to show progress
-│── App.css              # Global styles for the app
+│── index.css              # Global styles for the app
 ├── index.js             # App entry point
 └── ...
 ```
