@@ -4,7 +4,7 @@ A simple and intuitive packing list app built with React. This app allows users 
 
 ![Packing List App]
 
-## 🧳 Features
+## Features
 
 - **Add Items:** Easily add items to your packing list with custom quantities.
 - **Mark as Packed:** Toggle items between packed and unpacked states.
