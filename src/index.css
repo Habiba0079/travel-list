@@ -38,7 +38,7 @@ h1 {
 
 .add-form {
   background-color: #0f4c89;
- 
+
   padding: 2.8rem 0;
   display: flex;
   align-items: center;
@@ -54,7 +54,7 @@ h3 {
 button,
 select,
 input {
-  background-color: #ead8b1 ;
+  background-color: #ead8b1;
   color: #3a6d8c;
   font-family: inherit;
   border: none;
@@ -85,11 +85,18 @@ input {
 
 .actions button,
 .list select {
+  background-color: #0f4c89;
+  color: #ead8b1;
   text-transform: uppercase;
   padding: 0.8rem 2.4rem;
   font-size: 1.4rem;
   font-weight: 700;
   margin: 0 0.8rem;
+}
+
+.actions button:hover,
+.list select:hover {
+  background-color: #3a6d8c;
 }
 
 .list ul {
